@@ -3,3 +3,6 @@ CI : as soon as there are any changes in GitHub files/Repos Jenking should build
 
 
 Changes needs to be made here.
+
+
+Finally it worked, we also need to check in configurations whether it's main or master branch.
