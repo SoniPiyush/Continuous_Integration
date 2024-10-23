@@ -1,0 +1,2 @@
+Git >> Git-Hub >> Jenkins(Build a Job)
+CI : as soon as there are any changes in GitHub files/Repos Jenking should build/run a job autometically
